@@ -10,8 +10,13 @@ As a former photographer and designer, I bring a unique package to the table, be
 When my face isn't stuck in the monitor, neck deep in code, I'm out with the kids.  Either riding bikes in the park, gardening in our communal plot, or swinging from the monkey bars.  Spawned from necessity, my love for cooking continues to grow.  I'm always looking for new recipes, or modifying old ones.  I feel really lucky to be where I am these days, and look forward to continuing to learn new things.
 
 ## Here's a look at what I've been working on:
+- [Marvel Fights](https://github.com/tedgusek/marvelFights)
+  - Utilizing Marvel's DB API and OpenAI's Text and Image generators, I created a Comic generator!  Follow the documentation to set it up on your own machine, or reach out for a demo!
+- [Carlton Bears Garden](https://www.carltonbearsgarden.com/)
+  - I recently deployed a mobile first site for a local community garden to streamline the their membership services.  Some strecth goals are to build out a photo gallery, and connect it to Google Calendar to make it easier to sign up for shifts, and share community events with other members.
+  - [Carlton Bears Garden Code](https://github.com/tedgusek/carltonbearsgarden)
 - [LambdaWG](https://github.com/oslabs-beta/Lambdawg)
-  - Open source GUI for AWS Lambda Monitoring.
+  - Internal tooling GUI for AWS Lambda Monitoring.
 - [ComingSoon](https://github.com/tedgusek/portfolio_site)
   - Personal portfolio site strictly to showcase my engineering skills, built with the excuse to play with some tools I haven't used in a bit.
 - [tedgusek](https://www.tedgusek.com/)
