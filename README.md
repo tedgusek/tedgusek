@@ -17,8 +17,8 @@ When my face isn't stuck in the monitor, neck deep in code, I'm out with the kid
   - [Carlton Bears Garden Code](https://github.com/tedgusek/carltonbearsgarden)
 - [LambdaWG](https://github.com/oslabs-beta/Lambdawg)
   - Internal tooling GUI for AWS Lambda Monitoring.
-- [ComingSoon](https://github.com/tedgusek/portfolio_site)
-  - Personal portfolio site strictly to showcase my engineering skills, built with the excuse to play with some tools I haven't used in a bit.
+- [ComingSoon](https://github.com/tedgusek/se_portfolio)
+  - Personal portfolio site strictly to showcase my engineering skills, built with Next, TS, and React.
 - [tedgusek](https://www.tedgusek.com/)
   - Just for fun, take a look at some of my photos I've taken over the years.
 
